@@ -73,8 +73,11 @@ Opacus solves for).
 | dp_eps_3 | 3 | 2.993 | 0.6946 | 96.18% | 303.9 |
 | dp_eps_8 | 8 | 7.994 | 0.5238 | 96.88% | 305.7 |
 | dp_eps_15 | 15 | 14.999 | 0.4396 | 97.54% | 308.3 |
+
+
 ![Accuracy vs Epsilon](results/accuracy_vs_epsilon.png)
 ![Training time overhead](results/train_time_vs_epsilon.png)
+
 
 ## Known limitations
 
